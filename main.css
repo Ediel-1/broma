@@ -1,0 +1,73 @@
+    body,td,th {
+	color: #000;
+}
+body {
+	  heigh:665px;
+  background-image: url("https://static.videezy.com/system/resources/thumbnails/000/051/925/original/2016_11_28-BlueLightRayHeart_LOOP.jpg");
+  background-size: 87rem;
+	margin-left: 3px;
+	margin-top: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+table {
+	background-color:#ECF0F1;
+	
+}
+.4{
+	font-size:16px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.contenedor{
+    margin: auto;
+    width: 900px;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.opciones p{
+    background: black;
+    display: initial;
+    padding: 12px;
+    color: #ffffff;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+p.p1{
+	position: absolute;
+	top: 496px;
+	left: 729px;
+	width: 100px;
+}
+p.p1:hover{
+    background: gray;
+    cursor: pointer;
+}
+
+p.p2{
+	position: absolute;
+	top: 495px;
+	left: 512px;
+	width: 100px;
+}
+p.p2:hover{
+    background: gray;
+    cursor: pointer;
+}
+#si{
+    background: #515050;
+    left: 420px;
+    position: absolute;
+    top: 122px;
+    width: 550px;
+    color: #ffffff;
+    padding: 50px;
+    display: none;
+}
